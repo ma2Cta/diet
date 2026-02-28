@@ -1,2 +1,17 @@
 ingredient,need_qty,unit,category,priority,reason
-鶏むね肉（皮なし）,1800,g,肉,high,2026-03-02週の献立合計
+鶏むね肉（皮なし）,1800,g,肉,high,夕食3種(375+200+200)＋昼食5日分(1000) ※月火金土日の昼
+豚ヒレ肉,800,g,肉,high,hotcook夕食1バッチ(375)＋昼食水木2日分(400)
+牛もも赤身,200,g,肉,medium,quick_beef_momo_steak 日曜夕食
+無脂肪ヨーグルト,2100,g,乳製品,high,朝食7日分×300g
+バナナ,7,個,果物,high,朝食7日分×1本
+ご飯（パックご飯換算）,1400,g,主食,high,昼食7日分×200g
+納豆,7,パック,大豆製品,high,昼食7日分×1パック
+冷凍ブロッコリー,840,g,野菜,high,昼食7日分×120g
+きのこ,1,パック,野菜,medium,herb_lemon(0.5)+pork_demi(0.5)合計
+玉ねぎ,1,個,野菜,medium,hotcook_pork_hire_demi_style用(0.5個→端数切上)
+レモン汁,30,ml,調味料,medium,hotcook_herb_lemon_chicken用
+カットトマト缶,1,缶,缶詰,medium,pasta用0.5缶→端数切上
+乾麺パスタ,80,g,主食,low,pasta_lowfat_tomato_chicken 土曜夕食
+ケチャップ,30,g,調味料,low,quick_ketchup(15)+pork_demi(15)合計
+ウスターソース,10,ml,調味料,low,hotcook_pork_hire_demi_style用
+はちみつ,49,g,調味料,low,朝食7日分×7g
