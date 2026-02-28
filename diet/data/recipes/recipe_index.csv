@@ -1,0 +1,10 @@
+dish_id,dish_name,recipe_md_path,default_servings
+fixed_breakfast,固定朝食,diet/weekly_plan.md,1
+fixed_lunch_base,固定昼食ベース,diet/weekly_plan.md,1
+hotcook_garlic_tomato_chicken,ガーリックトマトチキン,diet/recipes/hotcook_garlic_tomato_chicken.md,3
+hotcook_herb_lemon_chicken,ハーブレモンチキン,diet/recipes/hotcook_herb_lemon_chicken.md,2
+hotcook_pork_hire_demi_style,ポークヒレ デミ風,diet/recipes/hotcook_pork_hire_demi_style.md,2
+quick_chicken_cream_style,鶏むねクリーム風,diet/recipes/quick_chicken_cream_style.md,1
+quick_beef_momo_steak,牛もも赤身ステーキ,diet/recipes/quick_beef_momo_steak.md,1
+quick_ketchup_chicken_rice_style,チキンライス風,diet/recipes/quick_ketchup_chicken_rice_style.md,1
+pasta_lowfat_tomato_chicken,低脂質トマトチキンパスタ,diet/recipes/pasta_lowfat_tomato_chicken.md,1

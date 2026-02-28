@@ -1,0 +1,4 @@
+date,meal_type,dish_id,servings,use_leftover,notes
+2026-02-23,breakfast,fixed_breakfast,1,false,無脂肪ヨーグルト300g+はちみつ+バナナ
+2026-02-23,lunch,fixed_lunch_base,1,false,ご飯200g+作り置き肉200g+納豆+ブロッコリー
+2026-02-23,dinner,hotcook_garlic_tomato_chicken,1,false,
