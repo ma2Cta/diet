@@ -24,6 +24,7 @@
 
 ## ディレクトリ責務
 - `recipes/`: レシピ本文マスター
+- `data/equipment/`: 調理機器の仕様・制約（献立作成時に最優先で参照）
 - `data/recipes/`: 集計用レシピCSV（ID、材料、使用量）
 - `data/pantry/`: 在庫・除外品CSV
 - `plans/weekly/<YYYY-MM-DD>/meal_plan.csv`: 週次献立の正本（週開始日を使う）
@@ -64,6 +65,7 @@
 6. コミット依頼がある場合は、関連ファイルのみを1目的1コミットでまとめる。
 7. `meal_plan.csv` に出現する `dish_id` は必ず `recipe_index.csv` に存在させる。
 8. `generated` 更新時は `orders` を上書きしない（確定値を保護）。
+9. HotCookメニューを扱う場合は `data/equipment/hotcook_kn-hw10g-b.md` を参照し、容量制約を超えない分量にする。
 
 ## 標準タスク（AIにそのまま依頼可能）
 - 週次献立作成:

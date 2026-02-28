@@ -31,6 +31,10 @@
 3. 献立と `data/pantry/` の在庫をもとに `shopping/generated/` を作成
 4. 発注内容を `shopping/orders/<YYYY-MM-DD>_order_final.csv` に確定
 
+## 機器制約（HotCook）
+- 使用機種: `KN-HW10G-B`（1.0L）
+- 詳細は `data/equipment/hotcook_kn-hw10g-b.md` を参照
+
 ## 最重要（この設計の核）
 - 糖質カット・甘味完全禁止はしない（反動で崩れる）
 - 「脂質×砂糖」(チョコ/菓子パン/クリームアイス) を避け、甘味は低脂質で管理する

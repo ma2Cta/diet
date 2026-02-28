@@ -4,6 +4,7 @@
 - `meal_plan.csv` の `dish_id` が `recipe_index.csv` にすべて存在する。
 - `date` は `YYYY-MM-DD` 形式。
 - 同日同meal_typeの重複行がない。
+- HotCookメニューの分量が `data/equipment/hotcook_kn-hw10g-b.md` の制約内にある。
 
 ## 買い物生成時
 - 参照元は `meal_plan.csv` + `recipe_ingredients.csv` + `pantry_stock.csv`。

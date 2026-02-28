@@ -5,9 +5,9 @@ fixed_breakfast,バナナ,1,個,true
 fixed_lunch_base,ご飯（パックご飯換算）,200,g,true
 fixed_lunch_base,納豆,1,パック,true
 fixed_lunch_base,冷凍ブロッコリー,120,g,true
-hotcook_garlic_tomato_chicken,鶏むね肉（皮なし）,1000,g,false
-hotcook_garlic_tomato_chicken,カットトマト缶,1,缶,false
-hotcook_garlic_tomato_chicken,玉ねぎ,1,個,false
-hotcook_herb_lemon_chicken,鶏むね肉（皮なし）,800,g,false
-hotcook_pork_hire_demi_style,豚ヒレ肉,800,g,false
+hotcook_garlic_tomato_chicken,鶏むね肉（皮なし）,400,g,false
+hotcook_garlic_tomato_chicken,カットトマト缶,0.5,缶,false
+hotcook_garlic_tomato_chicken,玉ねぎ,0.5,個,false
+hotcook_herb_lemon_chicken,鶏むね肉（皮なし）,375,g,false
+hotcook_pork_hire_demi_style,豚ヒレ肉,375,g,false
 quick_beef_momo_steak,牛もも赤身,200,g,true
