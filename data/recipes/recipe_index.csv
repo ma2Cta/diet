@@ -1,7 +1,7 @@
 dish_id,dish_name,recipe_md_path,default_servings
 fixed_breakfast,固定朝食,plans/base/weekly_plan.md,1
 fixed_lunch_base,固定昼食ベース,plans/base/weekly_plan.md,1
-hotcook_garlic_tomato_chicken,ガーリックトマトチキン,recipes/hotcook_garlic_tomato_chicken.md,3
+hotcook_garlic_tomato_chicken,ガーリックトマトチキン,recipes/hotcook_garlic_tomato_chicken.md,2
 hotcook_herb_lemon_chicken,ハーブレモンチキン,recipes/hotcook_herb_lemon_chicken.md,2
 hotcook_pork_hire_demi_style,ポークヒレ デミ風,recipes/hotcook_pork_hire_demi_style.md,2
 quick_chicken_cream_style,鶏むねクリーム風,recipes/quick_chicken_cream_style.md,1
