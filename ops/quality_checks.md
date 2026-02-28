@@ -11,5 +11,5 @@
 - `generated` と `orders` で対象週開始日（`YYYY-MM-DD`）が一致している。
 
 ## 日次ログ更新時
-- `diet/logs/daily/YYYY-MM-DD.md` を作成または更新。
-- `diet/logs/daily_log.csv` に同日行を追加または更新。
+- `logs/daily/YYYY-MM-DD.md` を作成または更新。
+- `logs/daily_log.csv` に同日行を追加または更新。
